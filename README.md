@@ -397,7 +397,7 @@ Each of these is a valid approach with different tradeoffs:
 - 📖 [PennyLane: How to Build Spin Hamiltonians](https://pennylane.ai/qml/demos/tutorial_how_to_build_spin_hamiltonians) - deep dive into the `qml.spin` module for constructing lattice Hamiltonians.
 - 🔧 [CERN Quantum Phase Detection GitHub](https://github.com/CERN-IT-INNOVATION/Quantum-Phase-Detection-ANNNI) - full reference implementation with notebooks, pre-computed data, and both QCNN and autoencoder approaches.
 
-### For Going Deep
+## For Going Deep
 
 - 📄 Monaco et al., "Quantum phase detection generalization from marginal QNN models" ([Phys. Rev. B 107, 2023](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.L081105)) - the paper behind the ANNNI demo
 - 📄 Cea et al., "Exploring the Phase Diagram of the quantum 1D ANNNI model" ([arXiv:2402.11022](https://arxiv.org/abs/2402.11022)) - extended study with floating phase analysis at larger system sizes
